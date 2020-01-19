@@ -8,4 +8,6 @@ La plupart de ces énergies renouvelables est cependant intermittente, il est do
 
 <br />
 
-### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf)
+### :arrow_forward: [Slides de présentation](présentation.pdf)
+
+### :notebook: [Notebook](/notebook.ipynb)
